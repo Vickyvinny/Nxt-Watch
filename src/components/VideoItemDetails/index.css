@@ -1,0 +1,19 @@
+.icon {
+  font-size: 25px;
+  color: #64748b;
+}
+
+.clicked {
+  color: #2563eb;
+}
+
+.reactPlayer {
+  width: 95%;
+}
+
+@media screen and (max-width: 576px) {
+  .icon {
+    font-size: 12px;
+    margin-right: 5px;
+  }
+}

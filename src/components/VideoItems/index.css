@@ -1,0 +1,7 @@
+.link-item {
+  text-decoration: none;
+  color: '#64748b';
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+}

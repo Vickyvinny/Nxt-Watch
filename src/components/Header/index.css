@@ -1,0 +1,15 @@
+.popup-content {
+  height: 150px;
+  width: 300px;
+}
+
+.logout-btn {
+  display: flex;
+  font-size: 28px;
+}
+
+@media screen and (min-width: 576px) {
+  .logout-btn {
+    display: none;
+  }
+}
